@@ -1,6 +1,10 @@
 # Grade-8-Computing
 :)
-print("Hi everyone! This is Charice!")
-print("💗 to sing, play piano + guitar !")
-print("🏫 Elyon Christian School")
-print("let's learn together!")
+haii ! It's Charice heree ^^
+❤ ESFP ❤
+
+🏫elyon christian school
+
+❤ to sing, play piano + guitar
+
+Let's learn here together!
